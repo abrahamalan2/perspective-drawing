@@ -1,5 +1,5 @@
 # perspective-drawing
-An tool to assist in creating 3 point perspective drawings
+An OCaml tool to assist in creating 3 point perspective drawings
 
 The controls available are
 p - place a point in space
